@@ -1,0 +1,59 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "18"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "suhito",
+      "precio": 12,
+      "id": 5
+    },
+    {
+      "nombre": "cabiar",
+      "precio": 120,
+      "id": 6
+    },
+    {
+      "nombre": "1",
+      "precio": 2,
+      "id": 7
+    },
+    {
+      "nombre": "3",
+      "precio": 12,
+      "id": 8
+    },
+    {
+      "nombre": "15",
+      "precio": 1,
+      "id": 9
+    },
+    {
+      "nombre": "16",
+      "precio": 17,
+      "id": 10
+    },
+    {
+      "nombre": "otro",
+      "precio": 12,
+      "id": 11
+    }
+  ]
+}
